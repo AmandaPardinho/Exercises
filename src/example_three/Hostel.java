@@ -1,6 +1,6 @@
 package example_three;
 
-public class Hostel {
+public class Hostel extends Student{
     private int room;
 
     public Hostel(String name, String email, int room) {
