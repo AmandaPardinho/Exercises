@@ -27,8 +27,8 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "\nStudent - " +
                 "name: " + name +
-                "\nemail: " + email + "}";
+                "\nemail: " + email;
     }
 }
