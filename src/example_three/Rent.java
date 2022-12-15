@@ -3,7 +3,6 @@ package example_three;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Comparator;
-import java.util.Scanner;
 
 public class Rent {
 
@@ -21,7 +20,7 @@ public class Rent {
             System.out.println(g);
         }));
 
-        System.out.println("\nStudents in room order:\n");
+        System.out.println("\nStudents in room order:");
         guest.stream().sorted(Comparator.comparing(Hostel::getRoom)).forEach(hostel -> System.out.println(hostel));
     }
 }
