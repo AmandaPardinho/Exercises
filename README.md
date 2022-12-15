@@ -3,7 +3,7 @@
 > Some exercises to practice POO, array, ArrayList and other things.
 ---
 
-## :straight_ruler: **Exercise_One**
+## :straight_ruler:**Exercise_One**
 
 > In this exercise, the goal was to create an array, of size n, containing the height of these n individuals. So, the array I created had n = 6 and the heights were determined randomly.
 >
@@ -11,3 +11,17 @@
 >
 > At the end, with the result of the total sum of the heights, it was possible to calculate the average height of the individuals on this list.
 ---
+<a href="https://git-scm.com/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>  
+<a href="https://code.visualstudio.com/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+---    
+![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/AmandaPardinho?label=follow&style=social)](https://github.com/AmandaPardinho)
