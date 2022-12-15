@@ -21,7 +21,7 @@ public class Rent {
             System.out.println(g);
         }));
 
-        System.out.println("\nStudents in room order: ");
+        System.out.println("\nStudents in room order:\n");
         guest.stream().sorted(Comparator.comparing(Hostel::getRoom)).forEach(hostel -> System.out.println(hostel));
     }
 }
